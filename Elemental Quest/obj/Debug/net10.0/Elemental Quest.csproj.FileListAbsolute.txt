@@ -1,0 +1,29 @@
+C:\Users\hariz\Documents\Hariz\Coding\c#\Lab Session\Elemental Quest\obj\Debug\net10.0\Elemental Quest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hariz\Documents\Hariz\Coding\c#\Lab Session\Elemental Quest\obj\Debug\net10.0\Elemental Quest.AssemblyInfoInputs.cache
+C:\Users\hariz\Documents\Hariz\Coding\c#\Lab Session\Elemental Quest\obj\Debug\net10.0\Elemental Quest.AssemblyInfo.cs
+C:\Users\hariz\Documents\Hariz\Coding\c#\Lab Session\Elemental Quest\obj\Debug\net10.0\Elemental Quest.csproj.CoreCompileInputs.cache
+C:\Users\hariz\Documents\Hariz\Coding\c#\Lab Session\Elemental Quest\bin\Debug\net10.0\Elemental Quest.exe
+C:\Users\hariz\Documents\Hariz\Coding\c#\Lab Session\Elemental Quest\bin\Debug\net10.0\Elemental Quest.deps.json
+C:\Users\hariz\Documents\Hariz\Coding\c#\Lab Session\Elemental Quest\bin\Debug\net10.0\Elemental Quest.runtimeconfig.json
+C:\Users\hariz\Documents\Hariz\Coding\c#\Lab Session\Elemental Quest\bin\Debug\net10.0\Elemental Quest.dll
+C:\Users\hariz\Documents\Hariz\Coding\c#\Lab Session\Elemental Quest\bin\Debug\net10.0\Elemental Quest.pdb
+C:\Users\hariz\Documents\Hariz\Coding\c#\Lab Session\Elemental Quest\obj\Debug\net10.0\Elemental Quest.dll
+C:\Users\hariz\Documents\Hariz\Coding\c#\Lab Session\Elemental Quest\obj\Debug\net10.0\refint\Elemental Quest.dll
+C:\Users\hariz\Documents\Hariz\Coding\c#\Lab Session\Elemental Quest\obj\Debug\net10.0\Elemental Quest.pdb
+C:\Users\hariz\Documents\Hariz\Coding\c#\Lab Session\Elemental Quest\obj\Debug\net10.0\Elemental Quest.genruntimeconfig.cache
+C:\Users\hariz\Documents\Hariz\Coding\c#\Lab Session\Elemental Quest\obj\Debug\net10.0\ref\Elemental Quest.dll
+C:\Users\Danish\source\repos\Elemental-Quest\Elemental Quest\bin\Debug\net10.0\Elemental Quest.exe
+C:\Users\Danish\source\repos\Elemental-Quest\Elemental Quest\bin\Debug\net10.0\Elemental Quest.deps.json
+C:\Users\Danish\source\repos\Elemental-Quest\Elemental Quest\bin\Debug\net10.0\Elemental Quest.runtimeconfig.json
+C:\Users\Danish\source\repos\Elemental-Quest\Elemental Quest\bin\Debug\net10.0\Elemental Quest.dll
+C:\Users\Danish\source\repos\Elemental-Quest\Elemental Quest\bin\Debug\net10.0\Elemental Quest.pdb
+C:\Users\Danish\source\repos\Elemental-Quest\Elemental Quest\obj\Debug\net10.0\Elemental Quest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danish\source\repos\Elemental-Quest\Elemental Quest\obj\Debug\net10.0\Elemental Quest.AssemblyInfoInputs.cache
+C:\Users\Danish\source\repos\Elemental-Quest\Elemental Quest\obj\Debug\net10.0\Elemental Quest.AssemblyInfo.cs
+C:\Users\Danish\source\repos\Elemental-Quest\Elemental Quest\obj\Debug\net10.0\Elemental Quest.csproj.CoreCompileInputs.cache
+C:\Users\Danish\source\repos\Elemental-Quest\Elemental Quest\obj\Debug\net10.0\Elemental Quest.sourcelink.json
+C:\Users\Danish\source\repos\Elemental-Quest\Elemental Quest\obj\Debug\net10.0\Elemental Quest.dll
+C:\Users\Danish\source\repos\Elemental-Quest\Elemental Quest\obj\Debug\net10.0\refint\Elemental Quest.dll
+C:\Users\Danish\source\repos\Elemental-Quest\Elemental Quest\obj\Debug\net10.0\Elemental Quest.pdb
+C:\Users\Danish\source\repos\Elemental-Quest\Elemental Quest\obj\Debug\net10.0\Elemental Quest.genruntimeconfig.cache
+C:\Users\Danish\source\repos\Elemental-Quest\Elemental Quest\obj\Debug\net10.0\ref\Elemental Quest.dll
