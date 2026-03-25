@@ -7,6 +7,7 @@ Group Members :
 3. Luqmanul Hakim bin Ahmad Azizi
 4. Hariz Hakimi bin Jasri
 5. Mohammad Nazri Aizad bin Mohammad Nazroel
+6. ⁠Izzryl Hafizzy bin Azrui Nizam
 
 
 Project description :
